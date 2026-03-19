@@ -1,2 +1,2 @@
-# MCYield
-Official Pytorch implementation for "Scaling Multi-Crop Yield Prediction with a Remote Sensing Foundation Model"
+# PhenoYieldNet
+Official Pytorch implementation for "PhenoYieldNet: Learning Crop-Aware Phenological Responses for Multi-Crop Yield Prediction"
